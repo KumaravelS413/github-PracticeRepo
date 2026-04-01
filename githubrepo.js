@@ -1,2 +1,2 @@
 console.log("hiii alll")
-console.log("welcome")
+console.log("welcome all")
